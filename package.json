@@ -1,0 +1,24 @@
+{
+    "name": "webanalyzer",
+    "version": "1.0.0",
+    "description": "Autonomous QA Modeler - Multi-Agent System for Playwright POM Generation",
+    "main": "index.js",
+    "scripts": {
+        "test": "playwright test",
+        "test:headed": "playwright test --headed",
+        "test:debug": "playwright test --debug",
+        "codegen": "playwright codegen"
+    },
+    "keywords": [
+        "playwright",
+        "testing",
+        "automation",
+        "ai-agents",
+        "pom"
+    ],
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+        "@playwright/test": "^1.40.0"
+    }
+}
