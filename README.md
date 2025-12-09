@@ -157,9 +157,11 @@ See [task.md](/.gemini/antigravity/brain/dd070dae-8572-4ad1-81fd-747880412f88/ta
 
 ## Documentation
 
+- **[📖 User Guide](docs/USER_GUIDE.md)** - Comprehensive guide with automationexercise.com examples
+- **[🏗️ Architecture Details](docs/architecture.md)** - System design and component details
+- [📋 Quick Start Guide](docs/QUICK_START.md) - Fast-track setup and usage
 - [Implementation Plan](/.gemini/antigravity/brain/dd070dae-8572-4ad1-81fd-747880412f88/implementation_plan.md)
 - [Task Breakdown](/.gemini/antigravity/brain/dd070dae-8572-4ad1-81fd-747880412f88/task.md)
-- [Architecture Details](docs/architecture.md) _(coming soon)_
 - [Agent Specifications](docs/agents.md) _(coming soon)_
 
 ## License
